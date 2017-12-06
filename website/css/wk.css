@@ -10,7 +10,13 @@ body {
 .red-text {
   color: #F00; }
 
-.wk-card {
-  margin-bottom: 24px; }
+.bg-dark {
+  background-color: #343a40 !important; }
+
+.mb12 {
+  margin-bottom: 12px; }
+
+footer {
+  padding: 8px 0; }
 
 /*# sourceMappingURL=wk.css.map */
