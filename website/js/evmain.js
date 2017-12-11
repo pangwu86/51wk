@@ -10,6 +10,16 @@ window.$vm = new Vue({
             console.log("see dir: " + this.dlist[index].nm);
             this.imglist = this.dlist[index].children || [];
             this.showev = true;
+            setTimeout(function () {
+                echo.init({
+                    offset: 100,
+                    throttle: 250,
+                    unload: false,
+                    callback: function (element, op) {
+                        console.log(element, 'has been', op + 'ed')
+                    }
+                });
+            }, 200);
         },
         seeList: function () {
             this.imglist = [];
@@ -21,5 +31,7 @@ window.$vm = new Vue({
         picurl: function (pic) {
             return imgperfix + pic.id;
         }
+    },
+    ready: function () {
     }
 });

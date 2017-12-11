@@ -58,7 +58,7 @@
             </div>
             <!--照片-->
             <div class="col-sm-12 evimage text-center" v-if="imglist.length > 0" v-for="(pic, index) in imglist">
-                <img :src="picurl(pic)" class="img-fluid" :alt="pic.nm">
+                <img src="images/imgloading.gif" :data-echo="picurl(pic)" class="img-fluid" :alt="pic.nm">
             </div>
             <div class="col-sm-12 evimage" v-if="imglist.length == 0">
                 <div class="evtitle text-center">暂时无数据</div>
@@ -78,5 +78,6 @@
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/vue.min.js"></script>
+<script src="js/echo.min.js"></script>
 <script src="js/evmain.js"></script>
 </html>
