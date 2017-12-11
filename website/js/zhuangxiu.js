@@ -1,0 +1,49 @@
+window.zhuangxiu = [{
+    id: "v3a5ord8rojborgbunmeihifoo",
+    nm: "IMG_20170917_115209.jpg"
+}, {
+    id: "079011lnrcj0oqck3kpm42mdt4",
+    nm: "IMG_20170917_115614.jpg"
+}, {
+    id: "um76f4p12ujs9pgqlmlf847tns",
+    nm: "IMG_20170917_115708.jpg"
+}, {
+    id: "6icv5733u0go6pnkgb89emlo7e",
+    nm: "IMG_20170917_120851.jpg"
+}, {
+    id: "u1imtfkq1ojbvpobconouvlcq2",
+    nm: "IMG_20170917_121013.jpg"
+}, {
+    id: "5nc4lm8lj2iasrb4tbf299gcsd",
+    nm: "IMG_20170917_123203.jpg"
+}, {
+    id: "sgg4g30q0ohpnqn04dg6v63rb1",
+    nm: "入户门牌号1.jpg"
+}, {
+    id: "7djqfk5qpcj7mrsp6jtcom38o7",
+    nm: "入户门牌号2.jpg"
+}, {
+    id: "u7krqbd3smga4ok5btksrt871m",
+    nm: "地板缝隙.jpg"
+}, {
+    id: "5i1gupkl72hrhq0es8d3uq0ogm",
+    nm: "大缝.jpg"
+}, {
+    id: "5guqgd423kifqr1qvfll2isbfp",
+    nm: "大缝隙.jpg"
+}, {
+    id: "vcohb52qbaivvogtbulakkkng5",
+    nm: "微信图片_20171205172753.jpg"
+}, {
+    id: "rlba927jk4hrip5ksuhjioea5c",
+    nm: "推拉门大缝隙.jpg"
+}, {
+    id: "tst4lc4ggkibgp5e6rhk4nbg77",
+    nm: "推拉门大缝隙2.jpg"
+}, {
+    id: "5jg86st0hsij6rgmm2nnegk3fh",
+    nm: "踢脚线.jpg"
+}, {
+    id: "3b94ubd69ejtdqi7blrp8sk57n",
+    nm: "阳台.jpg"
+}];
