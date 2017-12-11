@@ -13,6 +13,25 @@ body {
 .mb12 {
   margin-bottom: 12px; }
 
+.btn-return {
+  margin-bottom: 1rem; }
+
+.evlink {
+  border: 1px solid #eee;
+  background: #aaa;
+  color: #FFF;
+  padding: 8px 16px;
+  line-height: 1.1;
+  margin-bottom: 0.5rem; }
+
+.evtitle {
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 1rem; }
+
+.evimage {
+  margin-bottom: 1.5rem; }
+
 footer {
   padding: 8px 0; }
 
